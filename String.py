@@ -6,4 +6,4 @@ for i in range(n):
     String=(input("Enter the elements "))
     list1.append(String)
 print("List elements are ",list1)
-print(get_max_length(['Letty','Wow','job']))
+print(get_max_length(list1))
